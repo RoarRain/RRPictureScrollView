@@ -5,6 +5,9 @@
 
 注：网络图片加载需要SDWebImage 支持
 
+ ![gif](http://52hzy.cn/scrollviewimage/RRScrollView.gif)
+
+
       UIImage *image = [UIImage imageNamed:@"img_01"];
   
       //初始化一个带占位图的RRPictureScrollView
