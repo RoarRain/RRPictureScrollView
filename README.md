@@ -1,5 +1,5 @@
 # RRPictureScrollView
-图片无限轮播RRPictureScrollView
+图片无限轮播
 
 一个简单实用的图片轮播器，支持无限轮播
 
